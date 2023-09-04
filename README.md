@@ -15,16 +15,6 @@ Mi tarea en teoria cumple con la mayoría de las cosas dentro del enunciado pero
 - Si la velocidad de movimiento de los fantasmas es muy alta se desincronizan los sprites
 - A veces Luigi se come 2 hits, no entendí muy bien cuando pasaba pero creo que se arregló. 
 
-### Cosas implementadas y no implementadas :white_check_mark: :x:
-
-Explicación: mantén el emoji correspondiente, de manera honesta, para cada item. Si quieres, también puedes agregarlos a los títulos:
-- ❌ si **NO** completaste lo pedido
-- ✅ si completaste **correctamente** lo pedido
-- 🟠 si el item está **incompleto** o tiene algunos errores
-
-**⚠️⚠️NO BASTA CON SOLO PONER EL COLOR DE LO IMPLEMENTADO**,
-SINO QUE SE DEBERÁ EXPLICAR QUÉ SE REALIZO DETALLADAMENTE EN CADA ITEM.
-⚠️⚠️
 
 
 ## Ejecución :computer:
