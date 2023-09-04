@@ -1,4 +1,4 @@
-Luigi's Mansion Maker👻🧱🔥
+##Luigi's Mansion Maker👻🧱🔥
 
 ##### Bienvenido seas al README de elPochini, como es costumbre, abrochate los cinturones porque vas a presenciar codigo que ni yo se como funciona. Aún así mi lema de vida es ```if it's stupid and it works is not stupid```. Espero que te guste mi jueguito lo hice con mucho cariño y café, además de darle las gracias al ost de gran turismo y el profesor Layton.
 
