@@ -26,34 +26,6 @@ Explicación: mantén el emoji correspondiente, de manera honesta, para cada ite
 SINO QUE SE DEBERÁ EXPLICAR QUÉ SE REALIZO DETALLADAMENTE EN CADA ITEM.
 ⚠️⚠️
 
-#### Ventanas: 27 pts (27%)
-##### ✅ Ventana de Inicio
-
-##### ✅ Ventana de Juego
-#### Mecánicas de juego: 47 pts (47%)
-##### ✅ Luigi
-##### 🟠 Fantasmas
-###### Los movimientos de los fantasmas son toscos, intenté hacer lo que pude para que se movieran a la vez pero la cantidad de problemas que me generó fue impresionante. Se mueven? SI. Es en una reaccion en cadena porque comparten el mismo timer? SI. Tiene la misma velocidad? SI
-##### ✅ Modo Constructor
-##### ✅ Fin de ronda
-###### Se muestra el fin de ronda, se esconden todas las cosas y te saca del juego una vez apretas el botón dentro de la Ventana
-#### Interacción con el usuario: 14 pts (14%)
-##### ✅ Clicks
-###### Los clicks y botones funcionan a la perfeccion dentro del Modo Constructor
-##### ✅ Animaciones
-###### Las animaciones son correctas en todas partes, cabe destacar que los fantasmas cuando se chocan con una pared esperan loop de movimiento para darse la vuelta
-#### Funcionalidades con el teclado: 8 pts (8%)
-##### ❌ Pausa
-##### ✅ K + I + L
-##### ✅ I + N + F
-#### Archivos: 4 pts (4%)
-##### ✅ Sprites
-##### ✅ Parametros.py
-#### Bonus: 8 décimas máximo
-##### ❌ Volver a Jugar
-##### ❌ Follower Villain
-###### Esto se hacía con un BFS 
-##### ❌ Drag and Drop
 
 ## Ejecución :computer:
 El módulo principal de la tarea a ejecutar es  ```main.py```. Además se debe crear los siguientes archivos y directorios adicionales:
