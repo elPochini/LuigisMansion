@@ -1,0 +1,6 @@
+.vscode/settings.json
+backend/__pycache__/
+Enunciado.pdf
+frontend/assets/
+frontend/__pycache__/
+backend/utilidades/__pycache__/
